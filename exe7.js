@@ -3,6 +3,7 @@ chefe()
 function exe7 (){
 exe7()
 }
+//função testada
 function exe7(){
     var soma=0
     var numero =Number(prompt("informe um número"))
